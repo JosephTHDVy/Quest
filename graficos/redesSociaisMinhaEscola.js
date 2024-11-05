@@ -15,8 +15,8 @@ async function redesSociaisFavoritasMinhaEscola() {
 }
 
 function processarDados(dados) {
-    const redesSociais = ['TikTok', 'WhatsApp', 'Instagram', 'Twitter'];
-    const porcentagens = [57, 14.33, 14.33, 14.34]; // 57% para TikTok, o restante dividido entre as outras redes
+    const redesSociais = ['TikTok', 'Instagram', 'WhatsApp', 'Twitter'];
+    const porcentagens = [57, 24.33, 14.33, 4.34]; // 57% para TikTok, o restante dividido entre as outras redes
 
     const data = [
         {
