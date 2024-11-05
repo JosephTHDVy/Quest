@@ -49,7 +49,7 @@ function processarDados(dados) {
     };
 
     criarGrafico(data, layout);
-    incluirTexto(`Na amostra da minha escola, o <span>TikTok</span> é a rede social preferida com 57%, seguido por <span>WhatsApp</span>, <span>Instagram</span> e <span>Twitter</span>.`);
+    incluirTexto(`Na amostra da minha escola, o <span>TikTok</span> é a rede social preferida com 57%, seguido por <span>Instagram</span>, <span>WhatsApp</span> e <span>Twitter</span>.`);
 }
 
 redesSociaisFavoritasMinhaEscola();
